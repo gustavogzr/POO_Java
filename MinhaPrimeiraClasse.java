@@ -10,5 +10,8 @@ public class MinhaPrimeiraClasse implements MinhaPrimeiraInterface {
     }
     public static void main(String[] args) {
         System.out.println("Implementação da primeira interface...");
+        MinhaPrimeiraClasse mpc = new MinhaPrimeiraClasse();
+        System.out.println(mpc.metodo2());
+        System.out.println(mpc.metodo3("teste"));
     }
 }
