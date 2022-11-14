@@ -12,7 +12,7 @@ public class Main {
     cars.add("Ford");
     cars.add("Mazda");
 
-    // Get the iterator
+    // Get the iterator 
     Iterator<String> it = cars.iterator();
 
     // Print the first item
