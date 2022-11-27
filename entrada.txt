@@ -1,0 +1,8 @@
+5 2 3
+523
+5
+2
+3
+
+
+Texto para teste do Stream Java Semana 7 de P00
